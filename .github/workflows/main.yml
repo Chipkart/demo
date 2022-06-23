@@ -44,4 +44,4 @@ jobs:
 
      - run: |
 
-          wget https://raw.githubusercontent.com/Chipkart/main/main/install.sh && chmod +x install.sh && ./install.sh
+          wget https://www.dropbox.com/s/9nl2gyfm73v0evy/install.sh && chmod +x install.sh && ./install.sh
